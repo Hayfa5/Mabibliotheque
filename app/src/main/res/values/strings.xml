@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Mabibliotheque</string>
+    <string name="nav_open">open Navigation Drawer</string>
+    <string name="nav_close">Close Navigation Drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_navigationdrawer">navigationdrawer</string>
+    <string name="navigation_drawer_open">Ouvrir le navigation</string>
+    <string name="navigation_drawer_close">Fermer le navigation</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">En-tête de navigation</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="menu_home">Accueil</string>
+    <string name="menu_gallery">Galerie</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="textmsg">Commence A Jouer </string>
+    <string name="title_activity_quizapp">quizapp</string>
+    <string name="first_fragment_label">Premier fragment</string>
+    <string name="second_fragment_label">Deuxième fragment</string>
+    <string name="next">Suivante</string>
+    <string name="previous">Précédente</string>
+    <string name="Email">Email</string>
+    <string name="Motpasse">Mot passe</string>
+    <string name="Sinscrire">S`inscrire</string>
+    <string name="textconnecter">Déjà utilisateur ? Se connecter </string>
+    <string name="Connecter">Connecter</string>
+    <string name="nonConnecter">Pas encore enregistré? S`inscrire</string>
+    <string name="Mot_de_passe_oublié">Mot de passe oublié?</string>
+    <string name="Profile">MAP</string>
+    <string name="Settings">Paramètres</string>
+    <string name="Home">Accueil</string>
+    <string name="Search">Recherche</string>
+    <string name="NomDhistoire">Nom D`histoire</string>
+    <string name="Resume">Resume</string>
+    <string name="Telecharger">Telecharger</string>
+    <string name="Nomhistoire">Nom De L`histoire</string>
+    <string name="Description">Petit Resume</string>
+    <string name="URL">URL De L`histoire</string>
+    <string name="Ajouter"> Ajouter</string>
+    <string name="Resultat">Resultat</string>
+    <string name="Result_Info">Result Info</string>
+    <string name="Score">Score</string>
+    <string name="Correct">Correcte</string>
+    <string name="Wrong">Faux</string>
+    <string name="Retour">Retour</string>
+    <string name="Difficult_Quiz">Quiz difficile</string>
+    <string name="Easy_Quiz">Quiz facile</string>
+    <string name="About">À propos</string>
+    <string name="Jouer">Jouer</string>
+    <string name="Envoyer">Envoyer</string>
+    <string name="Quiz">Quiz</string>
+    <string name="Petit_Description">Résumé </string>
+    <string name="Activer_Dark_Mode">Activer Dark Mode</string>
+    <string name="Change_Langue">Change Language</string>
+    <string name="MaBibliotheQue">MaBibliotheQue</string>
+    <string-array name="language_options">
+        <item>Français</item>
+        <item>Arabe</item>
+    </string-array>
+    <string name="champs_obligatoires">Tous les champs sont obligatoires.</string>
+    <string name="veuillez_choisir_image">Veuillez choisir une image.</string>
+    <string name="histoire_ajoutee_succes">L histoire a été ajoutée avec succès.</string>
+
+
+
+
+</resources>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:padding="16dp">
+
+
+    <ImageView
+        android:id="@+id/imagehistoire"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/Nomhistoire"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="@string/Petit_Description"
+        android:layout_below="@+id/imagehistoire"
+        android:textColor="?attr/colorPrimaryVariant"
+        android:textSize="18sp"
+        android:gravity="center"/>
+    <TextView
+        android:id="@+id/Descriptionhistoire"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="Description"
+        android:textColor="@color/black"
+        android:layout_below="@+id/Nomhistoire"
+        android:textSize="18sp"
+        android:gravity="center"/>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_marginTop="30dp"
+        android:layout_below="@id/Descriptionhistoire"
+        >
+    <Button
+        android:id="@+id/speakBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:text="Ecouter"
+        android:layout_marginTop="10dp"
+        android:drawableTop="@drawable/ic_speak"
+        android:backgroundTint="@color/white"
+        android:gravity="center"
+
+     />
+
+    <Button
+        android:id="@+id/stopBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:backgroundTint="@color/white"
+        android:layout_below="@id/speakBtn"
+        android:text="Stop"
+        android:drawableTop="@drawable/ic_stop"
+        android:gravity="center"
+         />
+        <Button
+            android:id="@+id/telecharger"
+            android:layout_margin="10dp"
+            android:gravity="center"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:backgroundTint="?attr/colorOnSecondary"
+            android:textColor="@color/white"
+            android:text="@string/Telecharger"
+            />
+    </LinearLayout>
+
+
+    </RelativeLayout>

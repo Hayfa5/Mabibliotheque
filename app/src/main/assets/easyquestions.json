@@ -1,0 +1,67 @@
+{
+  "easyquestions": [
+    {
+      "question": "Où habite la grand-mère?",
+      "1": "A) Dans une chaussure",
+      "2": "B) Dans une boîte",
+      "3": "C) Dans une maison en chocolat",
+      "4": "D) Dans une forêt sombre",
+      "correcte": "D) Dans une forêt sombre"
+    },
+    {
+      "question": "Quelle couleur est la robe de la fillette?",
+      "1": "A) Rouge",
+      "2": "B) Vert",
+      "3": "C) Blue",
+      "4": "D) Jaune",
+      "correcte": "A) Rouge"
+    },
+    {
+      "question": "Qui arrive en premier à la maison de la grand-mère?",
+      "1": "A) Le loup",
+      "2": "B) Le Petit Chaperon Rouge",
+      "3": "C) La mere ",
+      "4": "D) Ils arrivent en même temps ",
+      "correcte": "A) Le loup"
+    },
+    {
+      "question": "Par où passe le Petit Chaperon Rouge?",
+      "1": "A) Par la forêt",
+      "2": "B) Par le village",
+      "3": "C) Par les champs ",
+      "4": "D) Par l'ecole",
+      "correcte": "A) Par la forêt"
+    }, {
+      "question": "Pourquoi le Petit Chaperon Rouge doit aller chez sa grand-mère?",
+      "1": "A) Parce que sa grand-mère s’ennuie.",
+      "2": "B) Parce que sa grand mère est malade. ",
+      "3": "C) Parce que sa grand mère est seul",
+      "4": "D) Pour jouer",
+      "correcte": "B) Parce que sa grand mère est malade. "
+    },
+    {
+      "question": "Pourquoi cette petite fille s’appelle le Petit Chaperon Rouge?",
+      "1": "A) Parce qu’elle a les joues toujours rouges ",
+      "2": "B) Parce qu’elle a les cheveux rouges",
+      "3": "C) Parce qu’elle porte un chaperon de couleur rouge ",
+      "4": "D) Parce qu’elle a une jupe rouge",
+      "correcte": "A) Parce qu’elle a les joues toujours rouges "
+    },
+    {
+      "question": "La petite fille entend la voix, elle pense quoi?",
+      "1": "A) C'est le loup",
+      "2": "B) C'est sa mère",
+      "3": "C) C'est son grand-père",
+      "4": "D) Elle ne pense rien pour le moment",
+      "correcte": "D) Elle ne pense rien pour le moment"
+    },
+    {
+      "question": "Les envies du loup sont quoi?",
+      "1": "A) Manger la grand-mère",
+      "2": "B) Jouer avec la petite fille",
+      "3": "C) Changer de couleur",
+      "4": "D) Danser dans la forêt",
+      "correcte": "A) Manger la grand-mère"
+    }
+  ]
+}

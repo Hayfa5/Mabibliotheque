@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1093905405315",
+    "project_id": "mabibliotheque-e5f69",
+    "storage_bucket": "mabibliotheque-e5f69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093905405315:android:8b738d96419109354352b6",
+        "android_client_info": {
+          "package_name": "com.example.mabibliotheque"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgy-Ys8jszGdXYl0HW65N6f65gwZX52Go"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
